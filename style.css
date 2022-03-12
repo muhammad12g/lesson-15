@@ -34,7 +34,7 @@ ul > li, a:hover{
     color: #333;
 }
 header{
-    width: 100%;
+    width: 100px;
     height: 500px;
 }
 header > video{
